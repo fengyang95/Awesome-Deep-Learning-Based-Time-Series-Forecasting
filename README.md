@@ -8,6 +8,8 @@ autoregressive recurrent networks [paper](https://arxiv.org/abs/1704.04110)
 - (TPA-LSTM) Temporal Pattern Attention for Multivariate Time Series Forecasting [paper](Temporal Pattern Attention for Multivariate Time Series Forecasting)
 - (HRHN) Hierarchical Attention-Based Recurrent Highway Networks for Time Series Prediction [paper](https://arxiv.org/abs/1806.00685) [code](https://github.com/KurochkinAlexey/Hierarchical-Attention-Based-Recurrent-Highway-Networks-for-Time-Series-Prediction)
 - Foundations of sequence-to-sequence modeling for time series [paper](https://arxiv.org/pdf/1805.03714.pdf)
+- Conditional Time Series Forecasting with Convolutional Neural Networks [paper](https://arxiv.org/abs/1703.04691)
+- A Multi-Horizon Quantile Recurrent Forecaster [paper](https://arxiv.org/pdf/1711.11053.pdf)
 ### NeurIPS
 #### 2019
 - (DILATE) Shape and Time Distorsion Loss for Training Deep Time Series Forecasting Models [paper](https://arxiv.org/abs/1909.09020) [code](https://github.com/vincent-leguen/DILATE) 
