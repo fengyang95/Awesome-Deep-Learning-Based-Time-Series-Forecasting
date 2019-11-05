@@ -62,7 +62,7 @@ for Time Series Prediction [paper](https://www.ijcai.org/proceedings/2017/0366.p
 - Spatiotemporal Multi-Graph Convolution Network for Ride-Hailing Demand Forecasting [paper](http://www-scf.usc.edu/~yaguang/papers/aaai19_multi_graph_convolution.pdf)
 #### 2018
 - Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16069/15978)
-- DeepUrbanMomentum: An Online Deep-Learning System for Short-Term Urban Mobility Prediction [paper](file:///H:/%E6%96%87%E6%A1%A3/%E8%AE%BA%E6%96%87/TimeSeries/16499-76519-1-PB.pdf)
+- DeepUrbanMomentum: An Online Deep-Learning System for Short-Term Urban Mobility Prediction  [paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16499/15759)
 ### IJCAI
 #### 2019
 - GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction [paper](https://www.ijcai.org/proceedings/2019/317)
