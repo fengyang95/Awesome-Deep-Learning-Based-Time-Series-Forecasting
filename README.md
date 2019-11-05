@@ -48,7 +48,7 @@ for Time Series Prediction [paper](https://www.ijcai.org/proceedings/2017/0366.p
 - Attention-based recurrent neural networks for accurate short-term and long-term dissolved oxygen prediction [paper](https://www.sciencedirect.com/science/article/pii/S0168169919312499)
 - Stock Price Prediction Using Attention-based Multi-Input LSTM [paper](http://proceedings.mlr.press/v95/li18c/li18c.pdf)
 - Co-evolutionary multi-task learning with predictive recurrence for multi-step chaotic time series prediction [paper](https://www.researchgate.net/publication/314202188_Co-evolutionary_multi-task_learning_with_predictive_recurrence_for_multi-step_chaotic_time_series_prediction)
-- A New Timing Error Cost Function for Binary Time Series Prediction [paper](A New Timing Error Cost Function for Binary Time Series Prediction)
+- A New Timing Error Cost Function for Binary Time Series Prediction [paper](https://www.researchgate.net/publication/331033415_A_New_Timing_Error_Cost_Function_for_Binary_Time_Series_Prediction)
 -  A bias and variance analysis for multistep-ahead time series forecasting [paper](https://www.researchgate.net/publication/274091015_A_Bias_and_Variance_Analysis_for_Multistep-Ahead_Time_Series_Forecasting)
 ## Spatial-Temporal Time Series Forecasting Papers
 ### arxiv
