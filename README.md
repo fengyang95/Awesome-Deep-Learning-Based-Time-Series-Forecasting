@@ -51,7 +51,7 @@ for Time Series Prediction [paper](https://www.ijcai.org/proceedings/2017/0366.p
 ### CIKM
 #### 2019
 - DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting [paper](https://kyonhuang.top/files/Huang-DSANet.pdf) [code](https://github.com/bighuang624/DSANet)
-- Time Series Prediction with Interpretable Data Reconstruction [paper](Time Series Prediction with Interpretable Data Reconstruction)
+- Time Series Prediction with Interpretable Data Reconstruction [paper](http://www.cikm2019.net/attachments/papers/p2133-tianA.pdf)
 ### Others
 - Attention-based recurrent neural networks for accurate short-term and long-term dissolved oxygen prediction [paper](https://www.sciencedirect.com/science/article/pii/S0168169919312499)
 - Stock Price Prediction Using Attention-based Multi-Input LSTM [paper](http://proceedings.mlr.press/v95/li18c/li18c.pdf)
