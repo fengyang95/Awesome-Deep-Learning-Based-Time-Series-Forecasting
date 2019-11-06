@@ -2,7 +2,7 @@
 ## Time Series Forecasting Papers
 ### arxiv papers
 - DeepAR: Probabilistic forecasting with
-autoregressive recurrent networks [paper](https://arxiv.org/abs/1704.04110)
+autoregressive recurrent networks [paper](https://arxiv.org/abs/1704.04110) [Tensorflow Implementation](https://github.com/arrigonialberto86/deepar)
 - (DSTP-RNN) DSTP-RNN: a dual-stage two-phase attention-based recurrent neural networks for long-term and multivariate time series prediction [paper](https://arxiv.org/abs/1904.07464) [code](https://github.com/arleigh418/Paper-Implementation-DSTP-RNN-For-Stock-Prediction-Based-On-DA-RNN)
 - (MTNet) A Memory-Network Based Solution for Multivariate Time-Series Forecasting [paper](https://arxiv.org/abs/1809.02105) [code](https://github.com/Maple728/MTNet)
 - (TPA-LSTM) Temporal Pattern Attention for Multivariate Time Series Forecasting [paper](https://arxiv.org/abs/1809.04206) [code](https://github.com/gantheory/TPA-LSTM)
