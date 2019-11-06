@@ -1,4 +1,4 @@
-# Awesome-Time-Series-Forecasting-with-Deep-Learning
+# Awesome-Deep-Learning-Based-Time-Series-Forecasting
 ## Time Series Forecasting Papers
 ### arxiv papers
 - DeepAR: Probabilistic forecasting with
