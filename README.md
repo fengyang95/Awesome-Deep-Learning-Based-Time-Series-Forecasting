@@ -29,6 +29,9 @@ autoregressive recurrent networks [paper](https://arxiv.org/abs/1704.04110)
 #### 2018
 - (LSTNet) Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks [paper](https://arxiv.org/abs/1703.07015) [code](https://github.com/laiguokun/LSTNet)
 - A Flexible Forecasting Framework for Hierarchical Time Series with Seasonal Patterns: A Case Study of Web Traffic [paper](http://people.cs.pitt.edu/~milos/research/2018/SIGIR_18_Liu_Hierarchical_Seasonal_TS.pdf)
+### SIGKDD
+#### 2019
+- Multi-Horizon Time Series Forecasting with Temporal Attention Learning [paper](http://delivery.acm.org/10.1145/3340000/3330662/p2527-fan.pdf?ip=13.124.220.190&id=3330662&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&__acm__=1573003780_f1a911e523931710b935d3b6c7be6830)
 ### AAAI
 #### 2019
 - Cogra: Concept-Drift-Aware Stochastic Gradient Descent for Time-Series Forecasting [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4383)
