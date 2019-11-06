@@ -48,7 +48,10 @@ autoregressive recurrent networks [paper](https://arxiv.org/abs/1704.04110)
 #### 2017
 - (DA-RNN) A Dual-Stage Attention-Based Recurrent Neural Network
 for Time Series Prediction [paper](https://www.ijcai.org/proceedings/2017/0366.pdf) [code](https://github.com/Zhenye-Na/DA-RNN)
-
+### CIKM
+#### 2019
+- DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting [paper](https://kyonhuang.top/files/Huang-DSANet.pdf) [code](https://github.com/bighuang624/DSANet)
+- Time Series Prediction with Interpretable Data Reconstruction [paper](Time Series Prediction with Interpretable Data Reconstruction)
 ### Others
 - Attention-based recurrent neural networks for accurate short-term and long-term dissolved oxygen prediction [paper](https://www.sciencedirect.com/science/article/pii/S0168169919312499)
 - Stock Price Prediction Using Attention-based Multi-Input LSTM [paper](http://proceedings.mlr.press/v95/li18c/li18c.pdf)
