@@ -73,3 +73,6 @@ for Time Series Prediction [paper](https://www.ijcai.org/proceedings/2017/0366.p
 ### IJCAI
 #### 2019
 - GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction [paper](https://www.ijcai.org/proceedings/2019/317)
+#### 2018
+- Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting [paper](Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework
+for Traffic Forecasting) [code-pytorch](https://github.com/FelixOpolka/STGCN-PyTorch)
