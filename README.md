@@ -1,14 +1,18 @@
 # Awesome-Deep-Learning-Based-Time-Series-Forecasting
 ## Time Series Forecasting Papers
 ### arxiv papers
-- DeepAR: Probabilistic forecasting with autoregressive recurrent networks [paper](https://arxiv.org/abs/1704.04110) [code](https://github.com/arrigonialberto86/deepar)
+#### 2019
 - (DSTP-RNN) DSTP-RNN: a dual-stage two-phase attention-based recurrent neural networks for long-term and multivariate time series prediction [paper](https://arxiv.org/abs/1904.07464) [code](https://github.com/arleigh418/Paper-Implementation-DSTP-RNN-For-Stock-Prediction-Based-On-DA-RNN)
-- (MTNet) A Memory-Network Based Solution for Multivariate Time-Series Forecasting [paper](https://arxiv.org/abs/1809.02105) [code](https://github.com/Maple728/MTNet)
 - (TPA-LSTM) Temporal Pattern Attention for Multivariate Time Series Forecasting [paper](https://arxiv.org/abs/1809.04206) [code](https://github.com/gantheory/TPA-LSTM)
-- (HRHN) Hierarchical Attention-Based Recurrent Highway Networks for Time Series Prediction [paper](https://arxiv.org/abs/1806.00685) [code](https://github.com/KurochkinAlexey/Hierarchical-Attention-Based-Recurrent-Highway-Networks-for-Time-Series-Prediction)
 - Foundations of sequence-to-sequence modeling for time series [paper](https://arxiv.org/pdf/1805.03714.pdf)
+#### 2018
+- (MTNet) A Memory-Network Based Solution for Multivariate Time-Series Forecasting [paper](https://arxiv.org/abs/1809.02105) [code](https://github.com/Maple728/MTNet)
+- (HRHN) Hierarchical Attention-Based Recurrent Highway Networks for Time Series Prediction [paper](https://arxiv.org/abs/1806.00685) [code](https://github.com/KurochkinAlexey/Hierarchical-Attention-Based-Recurrent-Highway-Networks-for-Time-Series-Prediction)
 - Conditional Time Series Forecasting with Convolutional Neural Networks [paper](https://arxiv.org/abs/1703.04691)
 - A Multi-Horizon Quantile Recurrent Forecaster [paper](https://arxiv.org/pdf/1711.11053.pdf)
+- EA-LSTM: Evolutionary Attention-based LSTM for Time Series Prediction [paper](https://arxiv.org/pdf/1811.03760.pdf)
+#### 2017
+- DeepAR: Probabilistic forecasting with autoregressive recurrent networks [paper](https://arxiv.org/abs/1704.04110) [code](https://github.com/arrigonialberto86/deepar)
 ### NeurIPS
 #### 2019
 - (DILATE) Shape and Time Distorsion Loss for Training Deep Time Series Forecasting Models [paper](https://arxiv.org/abs/1909.09020) [code](https://github.com/vincent-leguen/DILATE) 
