@@ -83,4 +83,4 @@ for Time Series Prediction [paper](https://www.ijcai.org/proceedings/2017/0366.p
 ### arxiv
 ### SIGKDD
 #### 2019
-- Deep Uncertainty Quantification: A Machine Learning Approach for Weather Forecasting [paper](https://arxiv.org/pdf/1805.03714.pdf) [code] (https://github.com/BruceBinBoxing/Deep_Learning_Weather_Forecasting)
+- Deep Uncertainty Quantification: A Machine Learning Approach for Weather Forecasting [paper](https://arxiv.org/pdf/1805.03714.pdf) [code](https://github.com/BruceBinBoxing/Deep_Learning_Weather_Forecasting)
