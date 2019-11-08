@@ -79,3 +79,8 @@ for Time Series Prediction [paper](https://www.ijcai.org/proceedings/2017/0366.p
 - GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction [paper](https://www.ijcai.org/proceedings/2019/317)
 #### 2018
 - Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting [paper](https://www.ijcai.org/proceedings/2018/0505.pdf) [code-pytorch](https://github.com/FelixOpolka/STGCN-PyTorch)
+## Weather Forecasting Papers
+### arxiv
+### SIGKDD
+#### 2019
+- Deep Uncertainty Quantification: A Machine Learning Approach for Weather Forecasting [paper](https://arxiv.org/pdf/1805.03714.pdf) [code] (https://github.com/BruceBinBoxing/Deep_Learning_Weather_Forecasting)
