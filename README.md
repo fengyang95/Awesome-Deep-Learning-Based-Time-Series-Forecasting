@@ -26,7 +26,7 @@
 #### 2019
 - Deep Factors for Forecasting [paper](https://arxiv.org/pdf/1905.12417.pdf)
 #### 2018
-- Autoregressive Convolutional Neural Networks for Asynchronous Time Series [code](https://arxiv.org/pdf/1703.04122.pdf)
+- Autoregressive Convolutional Neural Networks for Asynchronous Time Series [paper](https://arxiv.org/pdf/1703.04122.pdf)
 - Hierarchical Deep Generative Models for Multi-Rate Multivariate Time Series [paper](http://proceedings.mlr.press/v80/che18a/che18a.pdf)
 ### SIGIR
 #### 2018
