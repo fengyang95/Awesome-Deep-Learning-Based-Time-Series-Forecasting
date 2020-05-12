@@ -84,3 +84,16 @@ for Time Series Prediction [paper](https://www.ijcai.org/proceedings/2017/0366.p
 ### SIGKDD
 #### 2019
 - Deep Uncertainty Quantification: A Machine Learning Approach for Weather Forecasting [paper](https://arxiv.org/pdf/1805.03714.pdf) [code](https://github.com/BruceBinBoxing/Deep_Learning_Weather_Forecasting)
+
+## Vedio Prediction
+### 2020 
+- Disentangling Physical Dynamics from Unknown Factors for Unsupervised Video Prediction (CVPR2020 PhyDNet) [paper](https://arxiv.org/abs/2003.01460) [code](https://github.com/vincent-leguen/PhyDNet)  
+### 2019
+- Memory In Memory: A Predictive Neural Network for Learning Higher-Order Non-Stationarity from Spatiotemporal Dynamics (CVPR2019 MIM) [paper](https://arxiv.org/abs/1811.07490) [code](https://github.com/Yunbo426/MIM)
+### 2018
+- Deep Learning for Physical Processes: Incorporating Prior Scientific Knowledge [paper](https://arxiv.org/abs/1711.07970)  
+- PredRNN++: Towards A Resolution of the Deep-in-Time Dilemma in Spatiotemporal Predictive Learning (ICML2018) [paper](https://arxiv.org/abs/1804.06300) [code](https://github.com/Yunbo426/predrnn-pp)
+### 2017
+- PredRNN: Recurrent Neural Networks for Predictive Learning using Spatiotemporal LSTMs (NIPS2017) [paper](https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf) [code](https://github.com/thuml/predrnn-pytorch)  
+
+
