@@ -63,7 +63,8 @@ for Time Series Prediction [paper](https://www.ijcai.org/proceedings/2017/0366.p
 -  A bias and variance analysis for multistep-ahead time series forecasting [paper](https://www.researchgate.net/publication/274091015_A_Bias_and_Variance_Analysis_for_Multistep-Ahead_Time_Series_Forecasting)
 ## Spatial-Temporal Time Series Forecasting Papers
 ### arxiv
-- Deep forecast: Deep learning-based spatio-temporal forecasting [paper](https://arxiv.org/pdf/1707.08110.pdf)
+- Deep forecast: Deep learning-based spatio-temporal forecasting (2017) [paper](https://arxiv.org/pdf/1707.08110.pdf)
+- Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting (2020)[paper](https://arxiv.org/pdf/2007.02842.pdf) [code](https://github.com/LeiBAI/AGCRN)
 ### AAAI
 #### 2019
 - (ASTGCN) Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3881) [code mxnet](https://github.com/Davidham3/ASTGCN)
