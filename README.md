@@ -63,8 +63,12 @@ for Time Series Prediction [paper](https://www.ijcai.org/proceedings/2017/0366.p
 -  A bias and variance analysis for multistep-ahead time series forecasting [paper](https://www.researchgate.net/publication/274091015_A_Bias_and_Variance_Analysis_for_Multistep-Ahead_Time_Series_Forecasting)
 ## Spatial-Temporal Time Series Forecasting Papers
 ### arxiv
-- Deep forecast: Deep learning-based spatio-temporal forecasting (2017) [paper](https://arxiv.org/pdf/1707.08110.pdf)
+#### 2020
 - (AGCRN) Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting (2020)[paper](https://arxiv.org/pdf/2007.02842.pdf) [code](https://github.com/LeiBAI/AGCRN)
+#### 2019
+- STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting [paper](https://arxiv.org/pdf/1905.10069.pdf) [code](https://github.com/LeiBAI/STG2Seq)
+#### 2017
+- Deep forecast: Deep learning-based spatio-temporal forecasting (2017) [paper](https://arxiv.org/pdf/1707.08110.pdf)
 ### AAAI
 #### 2019
 - (ASTGCN) Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3881) [code mxnet](https://github.com/Davidham3/ASTGCN)
@@ -75,6 +79,8 @@ for Time Series Prediction [paper](https://www.ijcai.org/proceedings/2017/0366.p
 #### 2018
 - Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16069/15978)
 - DeepUrbanMomentum: An Online Deep-Learning System for Short-Term Urban Mobility Prediction  [paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16499/15759)
+#### 2017
+- Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction [paper](https://arxiv.org/pdf/1610.00081.pdf)  [code](https://github.com/lliony/DeepST-ResNet/tree/master/scripts/papers/AAAI17)
 ### IJCAI
 #### 2019
 - GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction [paper](https://www.ijcai.org/proceedings/2019/317)
