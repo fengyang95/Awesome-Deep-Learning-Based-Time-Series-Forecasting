@@ -1,6 +1,6 @@
 # Awesome-Deep-Learning-Based-Time-Series-Forecasting
-## Time Series Forecasting Papers
-### arxiv papers
+## 1. Time Series Forecasting Papers
+### arxiv 
 #### 2019
 - (DSTP-RNN) DSTP-RNN: a dual-stage two-phase attention-based recurrent neural networks for long-term and multivariate time series prediction [paper](https://arxiv.org/abs/1904.07464) [code](https://github.com/arleigh418/Paper-Implementation-DSTP-RNN-For-Stock-Prediction-Based-On-DA-RNN)
 - (TPA-LSTM) Temporal Pattern Attention for Multivariate Time Series Forecasting [paper](https://arxiv.org/abs/1809.04206) [code](https://github.com/gantheory/TPA-LSTM)
@@ -61,7 +61,7 @@ for Time Series Prediction [paper](https://www.ijcai.org/proceedings/2017/0366.p
 - Co-evolutionary multi-task learning with predictive recurrence for multi-step chaotic time series prediction [paper](https://www.researchgate.net/publication/314202188_Co-evolutionary_multi-task_learning_with_predictive_recurrence_for_multi-step_chaotic_time_series_prediction)
 - A New Timing Error Cost Function for Binary Time Series Prediction [paper](https://www.researchgate.net/publication/331033415_A_New_Timing_Error_Cost_Function_for_Binary_Time_Series_Prediction)
 -  A bias and variance analysis for multistep-ahead time series forecasting [paper](https://www.researchgate.net/publication/274091015_A_Bias_and_Variance_Analysis_for_Multistep-Ahead_Time_Series_Forecasting)
-## Spatial-Temporal Time Series Forecasting Papers
+## 2. Spatial-Temporal Time Series Forecasting Papers
 ### arxiv
 #### 2020
 - (AGCRN) Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting (2020)[paper](https://arxiv.org/pdf/2007.02842.pdf) [code](https://github.com/LeiBAI/AGCRN)
@@ -86,13 +86,13 @@ for Time Series Prediction [paper](https://www.ijcai.org/proceedings/2017/0366.p
 - GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction [paper](https://www.ijcai.org/proceedings/2019/317)
 #### 2018
 - Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting [paper](https://www.ijcai.org/proceedings/2018/0505.pdf) [code-pytorch](https://github.com/FelixOpolka/STGCN-PyTorch)
-## Weather Forecasting Papers
+## 3. Weather Forecasting Papers
 ### arxiv
 ### SIGKDD
 #### 2019
 - Deep Uncertainty Quantification: A Machine Learning Approach for Weather Forecasting [paper](https://arxiv.org/pdf/1805.03714.pdf) [code](https://github.com/BruceBinBoxing/Deep_Learning_Weather_Forecasting)
 
-## Vedio Prediction
+## 4. Vedio Prediction
 ### 2020 
 - Disentangling Physical Dynamics from Unknown Factors for Unsupervised Video Prediction (CVPR2020 PhyDNet) [paper](https://arxiv.org/abs/2003.01460) [code](https://github.com/vincent-leguen/PhyDNet)  
 ### 2019
