@@ -20,6 +20,7 @@
 - Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting [paper](https://proceedings.neurips.cc/paper/2020/file/cdf6581cb7aca4b7e19ef136c6e601a5-Paper.pdf)
 - Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting [paper](https://proceedings.neurips.cc/paper/2020/file/ce1aad92b939420fc17005e5461e6f48-Paper.pdf) [code](https://github.com/LeiBAI/AGCRN)
 - Adversarial Sparse Transformer for Time Series Forecasting [paper](https://proceedings.neurips.cc/paper/2020/file/ce1aad92b939420fc17005e5461e6f48-Paper.pdf)
+- Deep Rao-Blackwellised Particle Filters for Time Series Forecasting [paper](https://proceedings.neurips.cc/paper/2020/file/afb0b97df87090596ae7c503f60bb23f-Paper.pdf)
 #### 2019
 - (DILATE) Shape and Time Distorsion Loss for Training Deep Time Series Forecasting Models [paper](https://arxiv.org/abs/1909.09020) [code](https://github.com/vincent-leguen/DILATE) 
 - Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting [paper](https://arxiv.org/abs/1905.03806)
