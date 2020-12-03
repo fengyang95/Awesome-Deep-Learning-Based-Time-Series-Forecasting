@@ -1,5 +1,7 @@
 # Awesome-Deep-Learning-Based-Time-Series-Forecasting
 ## 1. Time Series Forecasting Papers
+### Review
+- Recurrent Neural Networks for Time Series Forecasting:Current status and future directions [paper](https://sci-hub.ren/https://www.sciencedirect.com/science/article/pii/S0169207020300996)
 ### arxiv 
 #### 2019
 - (DSTP-RNN) DSTP-RNN: a dual-stage two-phase attention-based recurrent neural networks for long-term and multivariate time series prediction [paper](https://arxiv.org/abs/1904.07464) [code](https://github.com/arleigh418/Paper-Implementation-DSTP-RNN-For-Stock-Prediction-Based-On-DA-RNN)
@@ -14,6 +16,9 @@
 #### 2017
 - DeepAR: Probabilistic forecasting with autoregressive recurrent networks [paper](https://arxiv.org/abs/1704.04110) [code](https://github.com/arrigonialberto86/deepar)
 ### NeurIPS
+#### 2020
+- Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting [paper](https://proceedings.neurips.cc/paper/2020/file/cdf6581cb7aca4b7e19ef136c6e601a5-Paper.pdf)
+- Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting [paper](https://proceedings.neurips.cc/paper/2020/file/ce1aad92b939420fc17005e5461e6f48-Paper.pdf) [code](https://github.com/LeiBAI/AGCRN)
 #### 2019
 - (DILATE) Shape and Time Distorsion Loss for Training Deep Time Series Forecasting Models [paper](https://arxiv.org/abs/1909.09020) [code](https://github.com/vincent-leguen/DILATE) 
 - Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting [paper](https://arxiv.org/abs/1905.03806)
@@ -33,10 +38,11 @@
 - (LSTNet) Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks [paper](https://arxiv.org/abs/1703.07015) [code](https://github.com/laiguokun/LSTNet)
 - A Flexible Forecasting Framework for Hierarchical Time Series with Seasonal Patterns: A Case Study of Web Traffic [paper](http://people.cs.pitt.edu/~milos/research/2018/SIGIR_18_Liu_Hierarchical_Seasonal_TS.pdf)
 ### SIGKDD
-#### 2019
-- Multi-Horizon Time Series Forecasting with Temporal Attention Learning [paper](https://www.kdd.org/kdd2019/accepted-papers/view/multi-horizon-time-series-forecasting-with-temporal-attention-learning)
 #### 2020
 - Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403118) [code](https://github.com/nnzhan/MTGNN)
+#### 2019
+- Multi-Horizon Time Series Forecasting with Temporal Attention Learning [paper](https://www.kdd.org/kdd2019/accepted-papers/view/multi-horizon-time-series-forecasting-with-temporal-attention-learning)
+
 ### AAAI
 #### 2019
 - Cogra: Concept-Drift-Aware Stochastic Gradient Descent for Time-Series Forecasting [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4383)
@@ -66,7 +72,6 @@ for Time Series Prediction [paper](https://www.ijcai.org/proceedings/2017/0366.p
 ## 2. Spatial-Temporal Time Series Forecasting Papers
 ### arxiv
 #### 2020
-- (AGCRN) Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting (2020)[paper](https://arxiv.org/pdf/2007.02842.pdf) [code](https://github.com/LeiBAI/AGCRN)
 #### 2019
 - STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting [paper](https://arxiv.org/pdf/1905.10069.pdf) [code](https://github.com/LeiBAI/STG2Seq)
 #### 2017
