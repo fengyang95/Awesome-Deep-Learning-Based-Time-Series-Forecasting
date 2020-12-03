@@ -35,6 +35,8 @@
 ### SIGKDD
 #### 2019
 - Multi-Horizon Time Series Forecasting with Temporal Attention Learning [paper](https://www.kdd.org/kdd2019/accepted-papers/view/multi-horizon-time-series-forecasting-with-temporal-attention-learning)
+#### 2020
+- Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403118) [code](https://github.com/nnzhan/MTGNN)
 ### AAAI
 #### 2019
 - Cogra: Concept-Drift-Aware Stochastic Gradient Descent for Time-Series Forecasting [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4383)
@@ -86,12 +88,15 @@ for Time Series Prediction [paper](https://www.ijcai.org/proceedings/2017/0366.p
 - GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction [paper](https://www.ijcai.org/proceedings/2019/317)
 #### 2018
 - Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting [paper](https://www.ijcai.org/proceedings/2018/0505.pdf) [code-pytorch](https://github.com/FelixOpolka/STGCN-PyTorch)
+### SIGKDD
+#### 2020
+- Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403358)
+- AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403122)
 ## 3. Weather Forecasting Papers
 ### arxiv
 ### SIGKDD
 #### 2019
 - Deep Uncertainty Quantification: A Machine Learning Approach for Weather Forecasting [paper](https://arxiv.org/pdf/1805.03714.pdf) [code](https://github.com/BruceBinBoxing/Deep_Learning_Weather_Forecasting)
-
 ## 4. Vedio Prediction
 ### 2020 
 - Disentangling Physical Dynamics from Unknown Factors for Unsupervised Video Prediction (CVPR2020 PhyDNet) [paper](https://arxiv.org/abs/2003.01460) [code](https://github.com/vincent-leguen/PhyDNet)  
