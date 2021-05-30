@@ -45,7 +45,13 @@
 #### 2019
 - Multi-Horizon Time Series Forecasting with Temporal Attention Learning [paper](https://www.kdd.org/kdd2019/accepted-papers/view/multi-horizon-time-series-forecasting-with-temporal-attention-learning)
 
-### AAAI
+#### 2021
+- Deep Switching Auto-Regressive Factorization:Application to Time Series Forecasting [paper](https://arxiv.org/abs/2009.05135)  
+- Dynamic Gaussian Mixture based Deep Generative Model For Robust Forecasting on Sparse Multivariate Time Series [paper](https://arxiv.org/pdf/2103.02164.pdf)  
+- Temporal Latent Auto-Encoder: A Method for Probabilistic Multivariate Time Series Forecasting  [paper](https://www.aaai.org/AAAI21Papers/AAAI-3796.NguyenN.pdf)  
+- Synergetic Learning of Heterogeneous Temporal Sequences for Multi-Horizon Probabilistic Forecasting [paper](https://arxiv.org/pdf/2102.00431.pdf)
+
+
 #### 2019
 - Cogra: Concept-Drift-Aware Stochastic Gradient Descent for Time-Series Forecasting [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4383)
 #### 2015
@@ -79,6 +85,8 @@ for Time Series Prediction [paper](https://www.ijcai.org/proceedings/2017/0366.p
 #### 2017
 - Deep forecast: Deep learning-based spatio-temporal forecasting (2017) [paper](https://arxiv.org/pdf/1707.08110.pdf)
 ### AAAI
+#### 2021
+- (STFGNN) Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting [paper](https://arxiv.org/pdf/2012.09641.pdf)
 #### 2019
 - (ASTGCN) Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3881) [code mxnet](https://github.com/Davidham3/ASTGCN)
 - Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data [paper](https://aaai.org/ojs/index.php/AAAI/article/view/3841)
