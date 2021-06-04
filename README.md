@@ -30,6 +30,13 @@
 - Deep State Space Models for Time Series Forecasting [paper](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf)
 #### 2017
 ### ICML
+#### 2021
+- Explaining Time Series Predictions With Dynamic Masks  
+- Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting  
+- Whittle Networks: A Deep Likelihood Model for Time Series  
+- Neural Rough Differential Equations for Long Time Series  
+- End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series  
+- Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting
 #### 2019
 - Deep Factors for Forecasting [paper](https://arxiv.org/pdf/1905.12417.pdf)
 #### 2018
